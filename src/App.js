@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <nav className="nav">
-        <span className="nav-header">Charlie</span>
+        <span className="nav-header">Charlie!</span>
       </nav>
       <div className="jumbotron">
         <h1 className="display-heading">
